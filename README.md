@@ -1,4 +1,4 @@
-# AngularDeployTemplate
+# Angular Login
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
 
@@ -18,7 +18,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ### Github
 
-Run `ng deploy --base-href=https://karthiksuresh181.github.io/angular-deploy-template/` to deploy the project to github. The same will be deployed using a branch that is created for deploying.
+Run `ng deploy --base-href=https://karthiksuresh181.github.io/angular-login/` to deploy the project to github. The same will be deployed using a branch that is created for deploying.
 
 ## Running unit tests
 
